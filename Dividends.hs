@@ -1,0 +1,1 @@
+module Property.Dividends where\nimport Plutus.V2.Ledger.Api\nimport PlutusTx.Prelude\n-- Haskell Logic for Dividends
